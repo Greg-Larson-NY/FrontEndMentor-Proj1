@@ -1,4 +1,5 @@
-﻿# Frontend Mentor - Stats preview card component Challenge
+﻿![Project Photo](https://raw.githubusercontent.com/Greg-Larson-NY/FrontEndMentor-Proj1/main/design/desktop-preview.jpg)
+# Frontend Mentor - Stats preview card component Challenge
 
 My task was to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 The designs were created to the following widths:
