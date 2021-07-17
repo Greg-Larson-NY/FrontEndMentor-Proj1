@@ -1,6 +1,6 @@
 ﻿# Frontend Mentor - Stats preview card component Challenge
 
-My task is was build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+My task was to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 The designs were created to the following widths:
 - Mobile: 375px https://greg-larson-ny.github.io/FrontEndMentor-Proj1/design/mobile-design.jpg
 - Desktop: 1440px https://greg-larson-ny.github.io/FrontEndMentor-Proj1/design/desktop-design.jpg
